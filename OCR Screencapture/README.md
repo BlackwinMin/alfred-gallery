@@ -1,0 +1,1 @@
+本动作用于给截图后提取文字，需先行安装 [tesseract](https://github.com/tesseract-ocr/)。
