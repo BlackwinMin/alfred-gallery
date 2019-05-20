@@ -1,0 +1,1 @@
+# AppleScript Dictionary.alfredworkflow
