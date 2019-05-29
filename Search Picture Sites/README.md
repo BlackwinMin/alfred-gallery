@@ -1,0 +1,1 @@
+# Search Picture Sites.alfredworkflow
