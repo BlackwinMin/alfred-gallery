@@ -1,4 +1,4 @@
-# Alfred Gallery 动作仓库
+# Alfred Gallery
 
 本仓库及其他自动化工具库主要供本人所发表文章代管源码。
 
